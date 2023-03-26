@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm  Kaushik Mazumdar, a Generalist and an Aspiring Frontend developer with a passion to learn. I love to explore new technologies and build cool things with code.<br>I've  started to code from past few years and have experience with a variety of programming languages, including Python and JavaScript.<br>When I'm not coding, you can find me learning about Human psychology, Technology and business .<br>I am skilled in Machine Learning, Data analytics and Currently learning React JS and am looking forward to collaborate on projects and learning from others. Feel free to check out my repositories and don't hesitate to reach out if you want to connect!
+Hi there! I'm  Kaushik Mazumdar, a Generalist and an Aspiring Frontend developer with a passion to learn. I love to explore new technologies and build cool things with code.<br>I am skilled in Machine Learning, Data analytics and Currently learning React JS and am looking forward to collaborate on projects and learning from others. Feel free to check out my repositories and don't hesitate to reach out if you want to connect!
 
 
 ## 🌐 Socials:
